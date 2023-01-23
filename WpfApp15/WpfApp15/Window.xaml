@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp15.Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp15"
+        mc:Ignorable="d"
+        Title="Window" Height="450" Width="800">
+    <Grid>
+        <ComboBox HorizontalAlignment="Left" Margin="416,117,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="3" IsEnabled="False">
+            <TextBlock>Автомобиль</TextBlock>
+            <TextBlock>Комунальные платежи </TextBlock>
+            <TextBlock>Медицина</TextBlock>
+            <TextBlock>Питание и быт</TextBlock>
+            <TextBlock>Разное</TextBlock>
+
+        </ComboBox>
+        <Label Content="Категория" HorizontalAlignment="Left" Margin="286,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Назначение платежа" HorizontalAlignment="Left" Margin="286,170,0,0" VerticalAlignment="Top"/>
+        <Label Content="Количество" HorizontalAlignment="Left" Margin="286,213,0,0" VerticalAlignment="Top"/>
+        <Label Content="Цена" HorizontalAlignment="Left" Margin="286,258,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="416,170,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="416,213,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="416,258,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <CheckBox Content="Оплачена" HorizontalAlignment="Left" Margin="331,296,0,0" VerticalAlignment="Top"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="304,338,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" Margin="416,338,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="₽" HorizontalAlignment="Left" Margin="551,258,0,0" VerticalAlignment="Top" Width="17"/>
+
+    </Grid>
+</Window>

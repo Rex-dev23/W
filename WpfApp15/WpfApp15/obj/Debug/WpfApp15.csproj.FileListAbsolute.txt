@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
+C:\Users\student\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe.config
+C:\Users\student\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe
+C:\Users\student\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.pdb
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.g.resources
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.Properties.Resources.resources
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.exe
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.pdb
+C:\Users\student\source\repos\WpfApp15\WpfApp15\obj\Debug\Window.g.cs
